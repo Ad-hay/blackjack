@@ -1,0 +1,33 @@
+body {
+    background-image:url(https://th.bing.com/th/id/R.819173d6f4b5e89c2d71dd205295dd0b?rik=CiUJP%2bAI5En6oA&riu=http%3a%2f%2fcheerspokernh.com%2fwp-content%2fuploads%2f2018%2f02%2fbigstock-poker-table-background-26587844-2-1.jpg&ehk=quZBOTlL3DEOQEHozvhcagT9pzVtGofL%2f%2bZN5lEgLic%3d&risl=&pid=ImgRaw&r=0);
+    background-size: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold; text-align: center;
+}
+
+h1 {
+    font-size: 100px; color: rgb(248, 197, 66);
+}
+
+p {
+    color: white; font-size: 30px;
+}
+
+#message-el {
+    font-style: italic; font-size: 50px;
+}
+
+#start-btn {
+    color: green; background-color: goldenrod; height: 50px; width: 150px; font-weight: bolder;
+    padding-top: 5px; padding-bottom: 5px; border: none; border-radius: 4px;
+}
+
+#new-btn {
+    color: green; background-color: goldenrod; height: 50px; width: 150px; font-weight: bolder;
+    padding-top: 5px; padding-bottom: 5px; border: none; border-radius: 4px; margin-top: 5px;
+}
+
+#cash-btn {
+    color: green; background-color: goldenrod; height: 50px; width: 150px; font-weight: bolder;
+    padding-top: 5px; padding-bottom: 5px; border: none; border-radius: 4px; margin-top: 5px;
+}
