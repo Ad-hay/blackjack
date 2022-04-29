@@ -22,6 +22,7 @@ let loseChip = player.Chip - 50
 let wonChip = player.Chip + 100
 
 
+
 function startgame() {
     let isAlive = true
     let firstCard = getRandomCard()
